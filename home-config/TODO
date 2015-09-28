@@ -10,6 +10,7 @@ yum install nano git
 
 git config --global user.email "cedric.ramassamy@actelion.com" 
 git config --global user.name "Cédric Ramassamy"
+git config --global color.ui auto
 
 mkdir training
 
