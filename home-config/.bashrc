@@ -17,7 +17,7 @@ alias rm='rm -i'
 alias cp='cp -i'
 alias mv='mv -i'
 
-alias ls='ls -G'
+alias ls='ls -G --color'
 alias l='ls -al'
 alias lh='ls -alh'
 
