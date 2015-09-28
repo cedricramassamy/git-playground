@@ -1,0 +1,22 @@
+https://www.docker.com/toolbox
+
+Kitematic -> centos
+
+.bashrc
+
+yum install nano git
+
+~/.bashrc
+
+git config --global user.email "cedric.ramassamy@actelion.com" 
+git config --global user.name "Cédric Ramassamy"
+
+mkdir training
+
+cd training
+
+git clone https://github.com/cedricramassamy/git-playground.git
+
+cd git-playground
+
+git config credential.helper store
