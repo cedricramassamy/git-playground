@@ -21,3 +21,6 @@ git clone https://github.com/cedricramassamy/git-playground.git
 cd git-playground
 
 git config credential.helper store
+
+Atlassian GIT Cheat sheet: https://www.atlassian.com/dms/wac/images/landing/git/atlassian_git_cheatsheet.pdf
+Tower GIT Cheat sheet: http://www.git-tower.com/blog/git-cheat-sheet/
