@@ -3,4 +3,4 @@ The Zen of Go
 Get shits done in a fast, readable, testable, predictable manner.
 That's all.
 
-
+Franck was here
