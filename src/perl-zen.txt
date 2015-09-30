@@ -1,4 +1,4 @@
-TheZen of Perl (unofficial joke)
+The Zen of Perl (unofficial joke)
 
 Beauty is subjective.
 Explicit is recommended, but not required.
@@ -17,4 +17,4 @@ At your discretion is better than not at all.
 Although your discretion should be used judiciously.
 Just because the code looks clean doesn't mean it is good.
 Just because the code looks messy doesn't mean it is bad.
-Reuse via CPAN is one honking great idea -- let's do more of that!
+Reuse via CPAN is one honking great idea - let's do more of that!
