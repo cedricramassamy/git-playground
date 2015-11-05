@@ -10,7 +10,6 @@ But readability counts.
 So use whitespace to enhance readability.
 Not because you're required to.
 Practicality always beats purity.
-In the face of ambiguity, do what I mean.
 There's more than one way to do it.
 Although that might not be obvious unless you're a Monk.
 At your discretion is better than not at all.
