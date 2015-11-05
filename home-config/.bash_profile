@@ -9,7 +9,8 @@ if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
       . /etc/bash_completion
 fi
 
-source /usr/share/git-core/contrib/completion/git-prompt.sh
+source /usr/local/git/contrib/completion/git-completion.bash
+source /usr/local/git/contrib/completion/git-prompt.sh
 
 force_color_prompt=yes
 
