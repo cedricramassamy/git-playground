@@ -1,6 +1,4 @@
 The Zen of Perl (unofficial joke)
- 
-
 
 Beauty is subjective.
 Explicit is recommended, but not required.
