@@ -1,4 +1,5 @@
 The Zen of Go
+new line
 
 Get shits done in a fast, readable, testable, predictable manner.
 That's all.  --> wrong! Just use Microsoft Windoes ;) Win98 is the way to go
