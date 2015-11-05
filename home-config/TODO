@@ -1,8 +1,8 @@
 https://www.docker.com/toolbox
 
-Kitematic -> centos
+docker -> linux
 
-.bashrc
+install .bash_profile
 
 yum install nano git
 
