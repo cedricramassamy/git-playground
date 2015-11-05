@@ -8,6 +8,9 @@ yum install nano git
 
 ~/.bashrc
 
+# Not safe but OK for training
+git config credential.helper store
+
 git config --global user.email "cedric.ramassamy@actelion.com" 
 git config --global user.name "Cédric Ramassamy"
 git config --global color.ui auto
