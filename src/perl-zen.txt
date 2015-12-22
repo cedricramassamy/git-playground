@@ -23,3 +23,5 @@ Although your discretion should be used judiciously.
 Just because the code looks clean doesn't mean it is good.
 Just because the code looks messy doesn't mean it is bad.
 Reuse via CPAN is one honking great idea - let's do more of that!
+
+There is only one perl, the black perl -> luc
