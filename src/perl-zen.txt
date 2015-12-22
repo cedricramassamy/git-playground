@@ -1,5 +1,4 @@
-Perl is bad. It shouldn't exist. I wouldn't be that straight
-I don't like it
+I don't like Perl 
 
 -- François
 
