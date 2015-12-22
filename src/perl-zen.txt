@@ -1,3 +1,9 @@
+Perl is bad. It shouldn't exist.
+I don't like it
+
+-- François
+
+
 The Zen of Perl (unofficial joke)
 
 Beauty is subjective.
