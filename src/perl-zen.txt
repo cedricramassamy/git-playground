@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 François doesn't like Perl (François)
 François is super (Cédric)
 Him neither (Luc)
@@ -5,6 +6,11 @@ Her neither (Karen)
 Them neither (them)
 I do like Perl! (Bernard)
 ---
+=======
+I don't like Perl (François)
+Me neither (Cédric)
+Them neither (them)
+>>>>>>> Stashed changes
 
 
 The Zen of Perl (unofficial joke)
