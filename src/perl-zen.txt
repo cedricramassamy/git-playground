@@ -2,7 +2,8 @@ Me neither (Cédric)
 Him neither (Luc)
 Her neither (Karen)
 Them neither (them)
-w---
+I do like Perl! (Bernard)
+---
 
 
 The Zen of Perl (unofficial joke)
