@@ -1,9 +1,9 @@
 François doesn't like Perl (François)
-François is super (Cédric)
+ François is super (Cédric)
 Him neither (Luc)
-Her neither (Karen)
+ Her neither (Karen)
 Them neither (them)
-I do like Perl! (Bernard)
+ I do like Perl! (Bernard)
 ---
 
 
