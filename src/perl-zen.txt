@@ -1,15 +1,3 @@
-François is super (Cédric)
-
-Him neither (Luc)
-
-Her neither (Karen)
-
-Them neither (them)
-
-I do like Perl! (Bernard)
-
----
-
 The Zen of Perl (unofficial joke)
 
 Beauty is subjective.
