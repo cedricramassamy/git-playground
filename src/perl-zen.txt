@@ -1,7 +1,9 @@
-I don't like Perl (François Levaux)
-Me neither (Cédric Ramamsssasnsny)
-
----
+I don't like Perl (François)
+Me neither (Cédric)
+Him neither (Luc)
+Her neither (Karen)
+Them neither (them)
+w---
 
 
 The Zen of Perl (unofficial joke)
