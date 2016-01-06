@@ -1,9 +1,13 @@
-François doesn't like Perl (François)
- François is super (Cédric)
+François is super (Cédric)
+
 Him neither (Luc)
- Her neither (Karen)
+
+Her neither (Karen)
+
 Them neither (them)
- I do like Perl! (Bernard)
+
+I do like Perl! (Bernard)
+
 ---
 
 The Zen of Perl (unofficial joke)
@@ -25,5 +29,6 @@ Although your discretion should be used judiciously.
 Just because the code looks clean doesn't mean it is good.
 Just because the code looks messy doesn't mean it is bad.
 Reuse via CPAN is one honking great idea - let's do more of that!
+
 
 There is only one perl, the black perl -> luc
