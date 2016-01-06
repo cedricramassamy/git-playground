@@ -13,7 +13,8 @@ I do like Perl! (Bernard)
 The Zen of Perl (unofficial joke)
 
 Beauty is subjective.
-Explicit is recommended, but not required.
+
+$Explicit is recommended, but not required.
 Simple is good, but complex can be good too.
 And although complicated is bad,
 Verbose and complicated is worse.
