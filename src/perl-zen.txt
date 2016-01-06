@@ -6,7 +6,6 @@ Them neither (them)
  I do like Perl! (Bernard)
 ---
 
-
 The Zen of Perl (unofficial joke)
 
 Beauty is subjective.
