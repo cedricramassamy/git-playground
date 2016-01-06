@@ -1,6 +1,7 @@
-I don't like Perl me neither
+I don't like Perl (François)
+Me neither (Cédric)
 
--- François
+---
 
 
 The Zen of Perl (unofficial joke)
